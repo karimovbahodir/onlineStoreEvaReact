@@ -1,0 +1,57 @@
+{
+  "product": [
+    {
+      "name": "LANVIN Mon Éclat D'Arpège",
+      "price": 2099,
+      "src": "https://i.letu.ru/imo/transform/profile=w132x2/common/img/uploaded/productImageFolder/LNV999035LG.jpg",
+      "id": 1
+    },
+    {
+      "name": "JIMMY CHOO I Want Choo Forever",
+      "price": 3374,
+      "src": "https://i.letu.ru/imo/transform/profile=w132x2/common/img/uploaded/productImageFolder/JCH112520LG.jpg",
+      "id": 2
+    },
+    {
+      "name": "VERSACE Подарочный набор EAU FRAICHE",
+      "price": 5511,
+      "src": "https://i.letu.ru/imo/transform/profile=w132x2/common/img/uploaded/productImageFolder/VER825961LG.jpg",
+      "id": 3
+    },
+    {
+      "name": "TRUSSARDI Pure Jasmine",
+      "price": 2999,
+      "src": "https://i.letu.ru/imo/transform/profile=w132x2/common/img/uploaded/productImageFolder/TR0000030_1LG.jpg",
+      "id": 4
+    },
+    {
+      "name": "TRUSSARDI Donna Pink Marina",
+      "price": 2674,
+      "src": "https://i.letu.ru/imo/transform/profile=w132x2/common/img/uploaded/productImageFolder/ETR80G003LG.jpg",
+      "id": 5
+    },
+    {
+      "name": "JIMMY CHOO I Want Choo",
+      "price": 3336,
+      "src": "https://i.letu.ru/imo/transform/profile=w132x2/common/img/uploaded/productImageFolder/3386460119252_1LG.jpg",
+      "id": 6
+    },
+    {
+      "name": "BALDESSARINI Bella",
+      "price": 2449,
+      "src": "https://i.letu.ru/imo/transform/profile=w132x2/common/img/uploaded/productImageFolder/HBS905027_mainLG.jpg",
+      "id": 7
+    },
+    {
+      "name": "MONTBLANC Signature",
+      "price": 2579,
+      "src": "https://i.letu.ru/imo/transform/profile=w132x2/common/img/uploaded/productImageFolder/WLL018A03LG.jpg",
+      "id": 8
+    }
+  ],
+  "cart": [],
+  "favorite": [],
+  "orders": [
+
+  ]
+}
